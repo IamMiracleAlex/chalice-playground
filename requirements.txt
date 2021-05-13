@@ -1,6 +1,7 @@
 attrs==20.3.0
 blessed==1.17.6
-botocore==1.20.70
+boto3==1.17.72
+botocore==1.20.72
 certifi==2020.12.5
 chalice==1.22.4
 chardet==4.0.0
@@ -14,6 +15,7 @@ python-editor==1.0.4
 PyYAML==5.4.1
 readchar==2.0.1
 requests==2.25.1
+s3transfer==0.4.2
 six==1.16.0
 urllib3==1.26.4
 wcwidth==0.2.5
